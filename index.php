@@ -13,7 +13,7 @@ require 'steamauth/steamauth.php';
 		<title>SteamID Search</title>
 		<meta name="keywords" content="Steam, Tool, Search, DJ Wolf" />
 		<meta name="description" content="Searches the Steam database for a player then returns the player information. (If Any)" />
-		<link rel="stylesheet" href="bulma-0.6.2/css/bulma.css">
+		<link rel="stylesheet" href="css/bulma.css">
 		<script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
 		<link rel="icon" type="image/png" href="images/favicon.png" />		
 	</head>
